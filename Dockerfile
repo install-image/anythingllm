@@ -1,1 +1,1 @@
-from mintplexlabs/anythingllm
+from mintplexlabs/anythingllm:master
